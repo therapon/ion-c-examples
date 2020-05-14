@@ -17,7 +17,7 @@ Tested on manjaro unix.
 1. Check out [ion-c](https://github.com/amzn/ion-c) build and install 
     1. `git clone https://github.com/amzn/ion-c.git`
     1. `cd ion-c` 
-    1. ./build-release.sh
+    1. `./build-release.sh`
     1. `cd build/release`
     1. `make`
     1. `sudo make install`
