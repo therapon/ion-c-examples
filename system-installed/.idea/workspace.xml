@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ionc-example-system" targetName="sapp" />
+      <config projectName="ionc-example-system" targetName="app" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe3e6db8-f02e-43d2-a252-a6bbc6335f7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="YMRLEwwl" />
+  </component>
+  <component name="ProjectId" id="1X3jud5EpQ9hd9taAPkRh9lVI7e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CMake" />
+  </component>
+  <component name="RunManager" selected="CMake Application.app">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="CMakeRunConfiguration" factoryName="Application" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ionc-example-system" RUN_TARGET_NAME="app" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sapp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ionc-example-system" RUN_TARGET_NAME="sapp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.app" />
+      <item itemvalue="CMake Application.sapp" />
+    </list>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="122" width="613" height="565" key="#app" timestamp="1589426237887">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="376" y="122" width="613" height="565" key="#app/0.17.1366.751@0.17.1366.751" timestamp="1589426237887" />
+    <state x="141" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589426096494">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="141" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.17.1366.751@0.17.1366.751" timestamp="1589426096494" />
+    <state x="466" y="115" width="434" height="578" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589426082547">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="466" y="115" width="434" height="578" key="#com.intellij.ide.macro.MacrosDialog/0.17.1366.751@0.17.1366.751" timestamp="1589426082547" />
+    <state width="1314" height="174" key="GridCell.Tab.0.bottom" timestamp="1589426238174">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state width="1314" height="174" key="GridCell.Tab.0.bottom/0.17.1366.751@0.17.1366.751" timestamp="1589426238174" />
+    <state width="1314" height="174" key="GridCell.Tab.0.center" timestamp="1589426238173">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state width="1314" height="174" key="GridCell.Tab.0.center/0.17.1366.751@0.17.1366.751" timestamp="1589426238173" />
+    <state width="1314" height="174" key="GridCell.Tab.0.left" timestamp="1589426238173">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state width="1314" height="174" key="GridCell.Tab.0.left/0.17.1366.751@0.17.1366.751" timestamp="1589426238173" />
+    <state width="1314" height="174" key="GridCell.Tab.0.right" timestamp="1589426238174">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state width="1314" height="174" key="GridCell.Tab.0.right/0.17.1366.751@0.17.1366.751" timestamp="1589426238174" />
+    <state x="0" y="38" key="SettingsEditor" timestamp="1589426173367">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="0" y="38" key="SettingsEditor/0.17.1366.751@0.17.1366.751" timestamp="1589426173367" />
+  </component>
+</project>
