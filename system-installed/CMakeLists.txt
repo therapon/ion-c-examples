@@ -13,3 +13,6 @@ target_link_libraries(app PRIVATE IonC::ionc) # dynamic
 
 add_executable(sapp main.c)
 target_link_libraries(sapp PRIVATE IonC::ionc_static IonC::decNumber_static m) # static
+
+add_executable(blobapp blob_example.c)
+target_link_libraries(blobapp PRIVATE IonC::ionc)
